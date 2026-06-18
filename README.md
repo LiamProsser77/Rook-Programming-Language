@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="Screenshot%202026-04-15%206.34.21%20PM.png" width="500" alt="HPP Logo">
-</p>
+<img width="300" height="300" alt="hpp-nobackground" src="https://github.com/user-attachments/assets/ff702a05-1116-44af-81f9-a4add77ca0c1" />
+
 
 # Heofon Programming Platform (HPP)
 
