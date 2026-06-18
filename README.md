@@ -27,6 +27,10 @@ To begin developing with the Heofon Programming Platform, you can access the env
 ### Variables
 You can find the Variables on out web portal on home button
 
+### What HPP is not
+- HPP is not a C++ file such as .hpp, HPP is a coding language for web dev and game making
+- HPP is not any other language it is its own language that is like HTML and Python making it a easy language to start for newer programmers in web dev and game making.
+
 ### Hello World in HPP
 The standard entry point for any HPP script using the professional logic block.
 ```hpp
