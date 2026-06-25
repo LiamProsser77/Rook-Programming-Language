@@ -1,0 +1,8 @@
+<rook script>
+<pro>
+<start>
+
+yes.put. Hello World
+
+<end>
+<script#>
